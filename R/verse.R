@@ -37,8 +37,8 @@ twiverse_attach <- function(pkgs){
 
   cat(
     cli::rule(
-      left = "Attaching twinetverse",
-      right = paste0("twinetverse ", utils::packageVersion("twinetverse"))
+      left = "Attaching echarts4r.suite",
+      right = paste0("echarts4r.suite ", utils::packageVersion("echarts4r.suite"))
     ),
     "\n"
   )
