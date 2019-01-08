@@ -1,6 +1,7 @@
 Package: echarts4r.suite
 Title: All 'echarts4r' Packages
 Version: 0.0.1
+Date: 2019-01-07
 Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", "cre"))
 Description: All 'echarts4r' packages.
 License: MIT + file LICENSE
